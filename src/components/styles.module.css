@@ -1,0 +1,19 @@
+.input {
+    background-color: whitesmoke;
+    border: 1px solid #000;
+    padding: 6px 8px;
+    border-radius: 8px;
+    margin: 2rem;
+}
+
+.button {
+    background-color: rgb(255, 194, 41);
+    border: none;
+    margin: 20px;
+    padding: 30px;
+    height: 10px;
+}
+
+.button:hover{
+    background: linear-gradient(to right rgb(255, 194, 41), rgb(108, 82, 24),rgb(0, 0, 0)) ;
+}
